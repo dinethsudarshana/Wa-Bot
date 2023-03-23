@@ -48,20 +48,20 @@ global.sdc = '-' //Fill it out using the Discord link, if there is one, just lea
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, This is up to you to fill in :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '085736178354' //Nomor Danamu
-global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
+global.pdana = '+16192683744' //Nomor Danamu
+global.ppulsa = '+16192683744' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '94764497078' //Nomor Bot
-global.nomorown = '94764497078' //Nomor Owner
-global.namebot = 'WA-MD-v1' //Nama Bot
-global.nameown = 'sandaru' // Nama Owner
+global.nomorbot = '+16192683744' //Nomor Bot
+global.nomorown = '+16192683744' //Nomor Owner
+global.namebot = 'BLACK PANTHER-MD-v1' //Nama Bot
+global.nameown = 'Dineth' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['94764497078', 'sandaru', true] //Replace your number with your name
+  ['+16192683744', 'sandaru', true] //Replace your number with your name
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -97,24 +97,24 @@ global.APIKeys = { // APIKey Here
 // The word APIKEY is filled with your own apikey, by buying it on the website
 
 /*============== WATERMARK ==============*/
-global.wm = '「 wa-ᴍᴅ-ᴠ𝟷 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘sandaru- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = 'wa-ᴍᴅ-ᴠ𝟷'
+global.wm = '「 BLACK PANTHER-MD」' //Main Watermark
+global.wm2 = 'BLACK-PANTHER-MD-V1'
+global.wm3 = 'ＢＬＡＣＫ ＰＡＮＴＨＥＲ ＭＤ'
 global.botdate = `⫹⫺ Date: ${week} ${date}`
 global.bottime = `Time : ${wktuwib}`
-global.titlebot = '🎋 ┊  ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
+global.titlebot = '🎋 ┊ ＰＡＮＴＨＥＲ ＭＤ'
 global.author = global.wm
-global.logo = 'https://i.ibb.co/cc8jfkX/01.jpg'
+global.logo = 'https://ibb.co/wQkWYDW'
 
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://i.ibb.co/cc8jfkX/01.jpg' //Main Thumbnail
-global.thumb2 = 'https://i.ibb.co/cc8jfkX/01.jpg'
-global.thumbbc = 'https://i.ibb.co/cc8jfkX/01.jpg' //For broadcast
-global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumblvlup = 'https://i.ibb.co/cc8jfkX/01.jpg'
-global.hwaifu = ['https://i.ibb.co/cc8jfkX/01.jpg']
+global.thumb = 'https://ibb.co/wQkWYDW' //Main Thumbnail
+global.thumb2 = 'https://ibb.co/wQkWYDW'
+global.thumbbc = 'https://ibb.co/wQkWYDW' //For broadcast
+global.giflogo = 'https://ibb.co/wQkWYDW'
+global.thumblvlup = 'https://ibb.co/wQkWYDW'
+global.hwaifu = ['https://ibb.co/wQkWYDW']
 
 /*============== FlamingText ===========*/
 global.flaaa = [
@@ -128,9 +128,9 @@ global.flaaa = [
 /*============== TEXT ==============*/
 global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
 global.eror = '```404 error```'
-global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+94 76 449 7078'
+global.dtu = 'BLACK-PANTHER'
+global.dtc = 'BLACK-PANTHER'
+global.phn = '+1 (561) 288-5956'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -140,7 +140,7 @@ global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 global.djson = 'application/json'
 
-global.thumbdoc = 'https://i.ibb.co/cc8jfkX/01.jpg'
+global.thumbdoc = 'https://ibb.co/wQkWYDW'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '5644' // default 10TB
